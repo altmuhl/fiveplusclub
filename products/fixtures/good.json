@@ -1,0 +1,59 @@
+[
+  {
+    "model": "products.products",
+    "pk": 1,
+    "fields": {
+      "name": "┴рчютр  ьрЄхьрЄшър фы  5 ъырёёр",
+      "description": "╧ЁюуЁрььр ъєЁёр тъы■ўрхЄ т ёхс  шчєўхэшх юёэютэ√ї ьрЄхьрЄшўхёъшї ъюэЎхяЎшщ, Ёх°хэшх чрфрў Ёрчэющ ёыюцэюёЄш, р Єръцх ЁрчтшЄшх ыюушўхёъюую ь√°ыхэш  ш рэрышЄшўхёъшї эрт√ъют.", "price": "1000.00", "quantity": 3, "image": "products_images/BaseMath5.jpg",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.products",
+    "pk": 2,
+    "fields": {
+      "name": "╘шчшър 7 ъырёё",
+      "description": "╚эфштшфєры№э√х чрэ Єш  яючтюы Є ърцфюьє єўхэшъє ЁрсюЄрЄ№ т єфюсэюь Єхьях ш ёюёЁхфюЄюўшЄ№ё  эр ётюшї ёырс√ї ёЄюЁюэрї.",
+      "price": "1050.00",
+      "quantity": 4,
+      "image": "products_images/physics7.jpg",
+      "category": 3
+    }
+  },
+  {
+    "model": "products.products",
+    "pk": 3,
+    "fields": {
+      "name": "╧юфуюЄютър ъ ╬├▌ яю ьрЄхьрЄшъх",
+      "description": "╧ЁюуЁрььр ъєЁёр тъы■ўрхЄ т ёхс  шчєўхэшх юёэютэ√ї Єхь, ъюЄюЁ√х тёЄЁхўр■Єё  эр ¤ъчрьхэх, р Єръцх яЁютхфхэшх яЁръЄшўхёъшї чрэ Єшщ фы  чръЁхяыхэш  ьрЄхЁшрыр.",
+      "price": "1500.00",
+      "quantity": 3,
+      "image": "products_images/MathExam9.jpg",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.products",
+    "pk": 4,
+    "fields": {
+      "name": "╙уыєсыхээр  ьрЄхьрЄшър 7 ъырёё",
+      "description": "╚эфштшфєры№э√х чрэ Єш ",
+      "price": "1050.00",
+      "quantity": 3,
+      "image": "products_images/HMath.jpg",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.products",
+    "pk": 5,
+    "fields": {
+      "name": "┴рчютр  ьрЄхьрЄшър 8 ъырёё",
+      "description": "╚эфштшфєры№э√х чрэ Єш .",
+      "price": "1500.00",
+      "quantity": 0,
+      "image": "products_images/BaseMath8.jpg",
+      "category": 1
+    }
+  }
+]
